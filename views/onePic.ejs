@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= picture.Name %></title>
+</head>
+<body>
+
+    <a href="/allPic">Back to all picture</a>
+
+    <h1>
+        Photographer: <%= Photographer.Photographer %>
+    </h1>
+    <h2>
+        <Title></Title>: <%= picture.Title %>
+    </h2>
+    <h3>
+        Borough: <%= picture.Borough %>
+    </h3>
+    <ul>
+        Description:
+        <% picture.Description.forEach( (Description) => { %>
+                <li>
+                    <%= Description %>
+                </li>
+            <% }) %>
+    </ul>
+
+    <a href="/updatePic/<%=picture.Description%>">Update this picture</a>
+    <br>
+    <br>
+
+    <% if (isLoggedIn && isFaved === false) { %>
+    <form action="/users/addFavoritePicture?_method=PUT" method="POST">
+        <input type="hidden" name="pictureId" value="<%= picture._id %>" />
+        <button type="submit" name="_method">Add To Favorite Pokemon</button>
+    </form>
+    <% } %>
+
+    <br>
+    <br>
+    
+    <form action="/api/picture/deleteOnePicture/<%=picture.Name%>?_method=DELETE" method="post">
+        <input type="submit" name="_method" value="DELETE THIS POKEMON">
+    </form>
+</body>
+</html>

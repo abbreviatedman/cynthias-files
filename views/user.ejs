@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Picture App</title>
+  </head>
+  <body>
+    <h1>Welcome <%=user.username%> to our Picture App</h1>
+    <br />
+    <a href="/">Go back to the home page</a>
+    <br />
+    <a href="/allPics">See all the Picture in the database</a>
+    <br />
+    <ul>
+      <%=user.username%>'s Favorite Picture: <% favoritePicture.forEach(
+      (Picture) => { %>
+      <li>
+        <a href="/onePic/<%=Picture.Name%>"><%= Picture.Name %></a>
+      </li>
+      <% }) %>
+      <% if (favoritePicture.length === 0) { %>
+        <p>None yet! Favorite some Pictures and come back here to see them.</p>
+        <% } %>
+    </ul>
+
+    <a href="/logout">Log out of the session</a>
+  </body>
+</html>

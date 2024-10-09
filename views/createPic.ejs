@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create a Picture</title>
+</head>
+<body>
+    <a href="/allPics">Back to All Picture</a>
+    <br>
+    <form action="/api/Picture/createOnePicture" method="post">
+        <label for="Photographer">Photographer</label>
+        <input type="text" id="Photographer" name="Photographer"><br><br>
+
+        <label for="Photographer">Photographer</label>
+        <input type="text" id="Name" name="Name"><br><br>
+
+        <label for="Title">Type</label>
+        <input type="text" id="Type" name="Type"><br><br>
+        
+        <label for="Description">Moves</label>
+        <input type="text" id="Moves" name="Moves" size="50"><br><br>
+
+        <input type="submit" value="Create Picture">
+    </form>
+</body>
+</html>

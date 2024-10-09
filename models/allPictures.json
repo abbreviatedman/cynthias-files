@@ -1,0 +1,72 @@
+[
+    {
+        "Photographer": "James Maher",
+        "Title": "Man on Bike",
+        "Borough": "Manhattan",
+        "Description": ["Smoke", "Bikes", "Day Time"],
+        "URL": "https://www.google.com/imgres?imgurl=https://cdn-ffcgi.nitrocdn.com/ZhDYBbXPoHrCHvLPGOdQmXKAjZXwoPng/assets/images/optimized/rev-bea8d4d/jamesmaherphotography.com/wp-content/uploads/2020/01/street-photography-new-york-city-2.jpg&tbnid=Tu9cRhb11f7QoM&vet=1&imgrefurl=https://jamesmaherphotography.com/street-photography-new-york/&docid=6uEyl3AfeUnQIM&w=900&h=600&source=sh/x/im/m1/1&kgs=48ed5593fc8e7e34&shem=abme,trie"
+      },
+      {
+        "Photographer": "Benjamin Lehman",
+        "Title": "Hilton Garden Inn",
+        "Borough": "Manhattan",
+        "Description": ["Street", "Crowd", "Night Time"],
+        "URL":"https://www.google.com/imgres?imgurl=https://benjaminlehman.com/wp-content/uploads/2023/06/New-York-City-Part-Extra-31-of-31-e1687878143565.jpg&tbnid=xNPjIyK51ZbR3M&vet=1&imgrefurl=https://benjaminlehman.com/street-photography-in-manhattan-new-york/&docid=NfuxUnPmKiTcaM&w=2670&h=1500&source=sh/x/im/m1/1&kgs=4e488ed4f720d097&shem=abme,trie"
+      },
+      {
+        "Photographer":"Jeff Chapman",
+        "Title": "Man In Rain",
+        "Borough": "Manhattan",
+        "Description": ["Smoke", "Raining", "Day Time"],
+        "URL":"https://www.google.com/imgres?imgurl=https://www.pewtrusts.org/-/media/post-launch-images/2020/03/patricktomasso55f0yztiruyunsplashjpgmaster/16x9_m.jpg&tbnid=uFr4kIrr50AsYM&vet=1&imgrefurl=https://www.pewtrusts.org/en/research-and-analysis/articles/2020/03/09/new-york-city-takes-first-step-toward-a-rainy-day-fund&docid=JvnSFBzGz7kmkM&w=1820&h=1024&source=sh/x/im/m1/1&kgs=a9158af8c5f69d81&shem=abme,trie"
+      },
+      {
+        "Photographer":"Vincent Tullo ",
+        "Title": "From The Bottom Up",
+        "Borough": "Manhattan",
+        "Description": ["Crowd", "Street", "Day Time"],
+        "URL": "https://www.google.com/imgres?imgurl=https://lp-cms-production.imgix.net/2021-10/Lower%2520East%2520Side%2520Vincent%2520Tullo%2520NYC%2520%2526%2520Company%2520rfe.jpg&tbnid=M-Q9j0iOOTh-3M&vet=1&imgrefurl=https://www.lonelyplanet.com/usa/new-york-city&docid=AvucxpmDnDGajM&w=3000&h=2002&source=sh/x/im/m1/1&kgs=c7656b6a995d63e0&shem=abme,trie"
+      },
+      {
+        "Photographer":"Phil Kline",
+        "Title": "The Globe",
+        "Borough": "Queens",
+        "Description": ["Park", "Water", "State", "Day Time"],
+        "URL":"https://www.google.com/imgres?imgurl=https://images.ctfassets.net/1aemqu6a6t65/3Jpw3NAc8nk93ldqmnjORs/4f387618f60e986d345fd7d51e3003d3/Corona-Queens-NYC-Photo-_Phil-Kline.jpg&tbnid=ixqKHGOVNPZXZM&vet=1&imgrefurl=https://www.nyctourism.com/new-york/queens/corona/&docid=ddeVgu0-r_OjmM&w=3000&h=2000&source=sh/x/im/m1/1&kgs=eee28d49b8731c33&shem=abme,trie"
+      },
+      {
+        "Photographer":"Harvey Meston",
+        "Title": "Coney Island",
+        "Borough": "Brooklyn",
+        "Description": ["Water", "Crowd", "Beach", "Day Time"],
+        "URL":"https://www.google.com/imgres?imgurl=https://www.travelandleisure.com/thmb/oBvpCgUynWK6HZaittqDMVfNpMg%3D/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coney-island-beach-1960-CONEYISLAND0521-13bfbb3d943d45f8ad50b6148c91b4c4.jpg&tbnid=2nzRs0QbK_VlIM&vet=1&imgrefurl=https://www.travelandleisure.com/trip-ideas/beach-vacations/how-coney-island-transformed-into-a-favorite-summertime-getaway&docid=6CVGllcutzxPoM&w=1500&h=1000&source=sh/x/im/m1/1&kgs=231c324757296562&shem=abme,trie"
+      },
+      {
+        "Photographer":"Shutterstock",
+        "Title": "The Cyclone",
+        "Borough": "Brooklyn",
+        "Description": ["Water", "Crowd", "Beach", "Day Time"],
+        "URL":"https://www.google.com/imgres?imgurl=https://media.cnn.com/api/v1/images/stellar/prod/180706141449-02-coney-island.jpg?q%3Dw_3872,h_2178,x_0,y_0,c_fill&tbnid=VExb66ttzFppkM&vet=1&imgrefurl=https://www.cnn.com/travel/article/coney-island-things-to-do/index.html&docid=rwpv_lUpxVNRjM&w=3872&h=2178&source=sh/x/im/m1/1&kgs=874508c2d8ea7af7&shem=abme,trie"
+      },
+      {
+        "Photographer":"Don Emmert",
+        "Title": "Grand Central Station",
+        "Borough": "Manhattan",
+        "Description": ["Crowed", "Inside", "Day Time"],
+        "URL":"https://www.google.com/imgres?imgurl=https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/7/26/1374858891932/Commuters-make-their-way--010.jpg?width%3D465%26dpr%3D1%26s%3Dnone&tbnid=wZGRMbvZ4f8LhM&vet=1&imgrefurl=https://www.theguardian.com/artanddesign/2013/jul/26/grand-central-beautiful-train-stations-world&docid=gjZALQN5FUTVJM&w=460&h=276&source=sh/x/im/m1/1&kgs=80203b4f4869f813&shem=abme,trie"
+      },
+      {
+        "Photographer": "Mark Lennihan",
+        "Title": "Times Square",
+        "Borough": "Manhattan",
+        "Description": ["Street", "Empty", "Day Time"],
+        "URL":"https://www.google.com/imgres?imgurl=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3XTBPTHVYUI6VBPXLFARRCUYZU.jpg&tbnid=kWNRw7XbJHpQAM&vet=1&imgrefurl=https://www.washingtonpost.com/health/2020/09/15/virus-nyclockdown/&docid=MdqZOGjv0lMTXM&w=6720&h=4480&source=sh/x/im/m1/1&kgs=d8a7f650f31b6b87&shem=abme,trie"
+      },
+      {
+        "Photographer": "Maspeth",
+        "Title": "Parade In Maspeth",
+        "Borough": "Queens",
+        "Description": ["Crowd", "Day Time"],
+        "URL":"https://www.google.com/imgres?imgurl=https://goodmigrations.com/wp-content/themes/goodMigrationsV5/static/images/locations/new-york-city/neighborhoods/maspeth-banner.png&tbnid=gzHnV5nto5FfGM&vet=1&imgrefurl=https://goodmigrations.com/city-guides/new-york-city/maspeth/&docid=ODwIqdmDbqiGvM&w=1140&h=520&source=sh/x/im/m1/1&kgs=65ebc0665f4fdec7&shem=abme,trie"
+      }
+]
